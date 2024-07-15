@@ -1,3 +1,5 @@
+// Ici serveur de développement Node opérationnel => ajout des fonctionnalités appropriées à l'application Express app.js
+
 const http = require("http");
 const app = require("./app");
 
